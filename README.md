@@ -7,9 +7,9 @@
 
 _AI projects • Machine Learning • Data analysis_
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]((https://www.linkedin.com/in/liza-hamadene/))
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/liza-hamadene/)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:lizahamadene@yahoo.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/LizaHamm/LizaHamm/)
 
 </div>
 

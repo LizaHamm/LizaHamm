@@ -20,7 +20,7 @@ _AI projects • Machine Learning • Data analysis_
 - 👋 Hi, I'm **Liza**, a Data Science student specialized in **AI & machine learning**
 - 🧠 I work on **data analysis, ML models, NLP and computer vision projects**
 - 🛠️ Experience with **academic projects and AI-focused internships**
-- 🌍 Languages: **French (C2)** · **English (C1/C2)**
+- 🌍 Languages: **French** · **English** · **Turkish**
 
 ---
 

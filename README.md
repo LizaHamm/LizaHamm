@@ -1,38 +1,90 @@
-# Hi, I'm Liza 👋
+<div align="center">
 
-Artifical intelligence engineering student with a strong interest in artificial intelligence, machine learning, and applied data projects.  
-I enjoy turning data into actionable insights and building intelligent systems that solve real-world problems.
+# Liza Hamadene
 
-## 🔭 What I'm working on
+### Data Science & AI Student  
+📍 Paris, France  
 
-- 🎯 Academic & professional projects in data science and AI (machine learning, predictive modeling, NLP).
-- 🧠 Applied AI projects developed during internships and personal work.
-- 📊 Data analysis and experimentation using Python and R.
+_AI projects • Machine Learning • Data analysis_
 
-## 🌱 What I'm learning
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]((https://www.linkedin.com/in/liza-hamadene/))
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/YOUR_USERNAME)
 
-- Advanced machine learning techniques (deep learning, model optimization).
-- Time series analysis and predictive modeling.
-- Natural Language Processing (NLP) and intelligent agents.
-- Best practices in MLOps and AI project structuring.
+</div>
 
-## 🛠️ Tech stack
+---
 
-- **Languages:** Python, R, SQL  
-- **Data & ML:** pandas, numpy, scikit-learn, PyTorch  
-- **Data visualization:** matplotlib, seaborn, ggplot2  
-- **Tools & platforms:** Git, GitHub, Jupyter Notebook, VS Code, Google Colab  
-- **Other:** basic experience with LLMs, APIs, and AI automation workflows
+## ⚡ Quick snapshot
 
-## 💬 About me
+- 👋 Hi, I'm **Liza**, a Data Science student specialized in **AI & machine learning**
+- 🧠 I work on **data analysis, ML models, NLP and computer vision projects**
+- 🛠️ Experience with **academic projects and AI-focused internships**
+- 🌍 Languages: **French (C2)** · **English (C1/C2)**
 
-- I enjoy working on data-driven projects with a strong real-world impact.
-- I'm particularly interested in AI applications in business, automation, and decision support.
-- Ask me about machine learning fundamentals, data analysis, or how to structure an AI project.
-- Fun fact: I love combining technical work with creative thinking and storytelling through data.
+---
+
+## 🧠 What I like working on
+
+### 🤖 AI & Machine Learning
+- Machine learning models (classification, regression, clustering)
+- Computer vision & image processing
+- Model evaluation and experimentation
+
+### 📊 Data & Analysis
+- Data cleaning, preprocessing & feature engineering
+- Exploratory Data Analysis (EDA)
+- Statistical analysis
+- End-to-end ML pipelines (from data to results)
+
+---
+
+## 🧰 Toolbox (stack I use)
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![R](https://img.shields.io/badge/R-blue?logo=r)
+![SQL](https://img.shields.io/badge/SQL-lightgrey)
+
+### 📈 Data & ML
+![Pandas](https://img.shields.io/badge/pandas-black?logo=pandas)
+![NumPy](https://img.shields.io/badge/numpy-blue?logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-orange?logo=scikit-learn)
+![PyTorch](https://img.shields.io/badge/PyTorch-red?logo=pytorch)
+
+### 📊 Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-blue)
+![Seaborn](https://img.shields.io/badge/Seaborn-lightblue)
+![ggplot2](https://img.shields.io/badge/ggplot2-blue)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-orange?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+![Jupyter](https://img.shields.io/badge/Jupyter-orange?logo=jupyter)
+![VS Code](https://img.shields.io/badge/VSCode-blue?logo=visualstudiocode)
+![Colab](https://img.shields.io/badge/Colab-yellow?logo=googlecolab)
+
+---
+
+## ✨ Currently exploring (bonus skills)
+
+- 🔍 Deep learning & model optimization
+- 🧠 LLM-based systems
+- 🧪 MLOps fundamentals
+- 📦 Model deployment & APIs (FastAPI basics)
+
+---
+
+## 🎓 Background
+
+- 🎓 MSc / Student in **Artificial Intelligence Engineering**
+- 🏫 Université Paris 8
+
+---
 
 ## 📫 How to reach me
 
-- LinkedIn: [[LinkedIn](https://www.linkedin.com/in/liza-hamadene)]
-- Email: [lizahamadene@yahoo.com]
-- GitHub: You're already here 🙂
+- 💼 LinkedIn: https://www.linkedin.com/in/liza-hamadene/  
+- 📧 Email: Lizahamadene@yahoo.com  
+
+⭐ Feel free to explore my repositories and projects

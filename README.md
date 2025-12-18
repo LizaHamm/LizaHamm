@@ -17,7 +17,7 @@ _AI projects • Machine Learning • Data analysis_
 
 ## ⚡ Quick snapshot
 
-- 👋 Hi, I'm **Liza**, a Data Science student specialized in **AI & machine learning**
+- 👋 Hi, I'm **Liza**, an Artificial Intelligence Engineering student 
 - 🧠 I work on **data analysis, ML models, NLP and computer vision projects**
 - 🛠️ Experience with **academic projects and AI-focused internships**
 - 🌍 Languages: **French** · **English** · **Turkish**
@@ -43,26 +43,28 @@ _AI projects • Machine Learning • Data analysis_
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![R](https://img.shields.io/badge/R-blue?logo=r)
-![SQL](https://img.shields.io/badge/SQL-lightgrey)
+![Java](https://img.shields.io/badge/Java-orange?logo=java)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
 
-### 📈 Data & ML
-![Pandas](https://img.shields.io/badge/pandas-black?logo=pandas)
-![NumPy](https://img.shields.io/badge/numpy-blue?logo=numpy)
+### 📊 Data & ML
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-orange?logo=scikit-learn)
 ![PyTorch](https://img.shields.io/badge/PyTorch-red?logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow)
 
-### 📊 Visualization
-![Matplotlib](https://img.shields.io/badge/Matplotlib-blue)
-![Seaborn](https://img.shields.io/badge/Seaborn-lightblue)
-![ggplot2](https://img.shields.io/badge/ggplot2-blue)
+### 🗄️ Data & Cloud
+![Snowflake](https://img.shields.io/badge/Snowflake-blue?logo=snowflake)
 
-### 🛠️ Tools
+### ⚙️ Frameworks & Tools
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+
+### 🔁 DevOps & Versioning
 ![Git](https://img.shields.io/badge/Git-orange?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
-![Jupyter](https://img.shields.io/badge/Jupyter-orange?logo=jupyter)
-![VS Code](https://img.shields.io/badge/VSCode-blue?logo=visualstudiocode)
-![Colab](https://img.shields.io/badge/Colab-yellow?logo=googlecolab)
+
+> Also: CI/CD · Agile Scrum · Code Review · Data Pipelines
+
 
 ---
 

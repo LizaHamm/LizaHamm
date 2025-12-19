@@ -1,6 +1,6 @@
 <div align="center">
- Liza Hamadene
-  AI Student
+ ## Liza Hamadene
+  ### AI Student
 📍 Paris, France  
 
 _AI projects • Machine Learning • Data analysis_

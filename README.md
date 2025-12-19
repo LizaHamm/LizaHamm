@@ -1,24 +1,6 @@
 <div align="center">
-  <svg width="100%" height="200">
-    <defs>
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#0f2027;stop-opacity:1" />
-        <stop offset="50%" style="stop-color:#203a43;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#2c5364;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <rect width="100%" height="200" fill="url(#grad)" />
-    <text x="50%" y="60%" fill="white" font-size="36" text-anchor="middle">
-      Liza Hamadene
-    </text>
-    <text x="50%" y="75%" fill="white" font-size="18" text-anchor="middle">
-      AI Student
-    </text>
-  </svg>
-</div>
-
-
-<div align="center">
+ Liza Hamadene
+  AI Student
 📍 Paris, France  
 
 _AI projects • Machine Learning • Data analysis_

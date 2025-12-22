@@ -34,13 +34,13 @@ _AI projects • Machine Learning • Data analysis_
 
 ### 📊 Data & Analysis
 - Data cleaning, preprocessing & feature engineering
-- Exploratory Data Analysis (EDA)
+- Exploratory Data Analysis 
 - Statistical analysis
 - End-to-end ML pipelines (from data to results)
 
 ---
 
-## 🧰 Toolbox (stack I use)
+## 🧰 Toolbox 
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
@@ -61,7 +61,7 @@ _AI projects • Machine Learning • Data analysis_
 ### ⚙️ Frameworks & Tools
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
 
-### 🔁 DevOps & Versioning
+### Versioning
 ![Git](https://img.shields.io/badge/Git-orange?logo=git)
 
 

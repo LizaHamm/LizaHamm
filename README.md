@@ -64,17 +64,14 @@ _AI projects • Machine Learning • Data analysis_
 ### 🔁 DevOps & Versioning
 ![Git](https://img.shields.io/badge/Git-orange?logo=git)
 
-> Also: CI/CD · Agile Scrum · Code Review · Data Pipelines
-
 
 ---
 
-## ✨ Currently exploring (bonus skills)
+## ✨ Currently exploring
 
 - 🔍 Deep learning & model optimization
 - 🧠 LLM-based systems
 - 🧪 MLOps fundamentals
-- 📦 Model deployment & APIs (FastAPI basics)
 
 ---
 

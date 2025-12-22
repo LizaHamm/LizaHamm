@@ -77,7 +77,7 @@ _AI projects • Machine Learning • Data analysis_
 
 ## 🎓 Background
 
-- 🎓 MSc / Student in **Artificial Intelligence Engineering**
+- 🎓 Student in **Artificial Intelligence Engineering**
 - 🏫 Université Paris 8
 
 ---

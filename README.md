@@ -57,7 +57,7 @@ _AI projects • Machine Learning • Data analysis_
 
 ### 🗄️ Data & Cloud
 ![Snowflake](https://img.shields.io/badge/Snowflake-blue?logo=snowflake)
-![AWS](https://img.shields.io/badge/AWS-orange?logo=aws)
+![AWS](<img src="https://img.shields.io/badge/-Amazon AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>)
 
 ### ⚙️ Frameworks & Tools
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)

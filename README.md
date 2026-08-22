@@ -3,7 +3,7 @@
 # Liza Hamadene
 
 
-### AI Student
+### AI Engineer | Data Scientist
 📍 Paris, France  
 
 _AI projects • Machine Learning • Data analysis_
